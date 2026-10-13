@@ -86,14 +86,14 @@ class ComputationalBiologist:
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/39D353/FareisGit" width="100%" alt="Contribution graph" />
+<img src="assets/contributions.svg" width="100%" alt="Contribution graph" />
 
 <sub>Yes, it says something. That one was on purpose —
 see <a href="https://github.com/FareisGit/contribution-graph">contribution-graph</a>.</sub>
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FareisGit&show_icons=true&hide_border=true&theme=github_dark&icon_color=2F81F7&title_color=2F81F7&include_all_commits=true&count_private=true" alt="" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FareisGit&show_icons=true&hide_border=true&theme=github_dark&icon_color=2F81F7&title_color=2F81F7&count_private=true" alt="" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FareisGit&layout=compact&hide_border=true&theme=github_dark&title_color=2F81F7&langs_count=8" alt="" />
 
 </div>
